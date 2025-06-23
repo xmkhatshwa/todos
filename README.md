@@ -43,14 +43,14 @@ get user information. Users will register themselves prior to login before creat
 * Testing
   - Use Swagger as alternative on http://localhost:8082/docs
 
-### API endpoints
+## API endpoints
 * Login to get JWT token generated using Swagger `/docs` endpoint
 * Validate JWT Token using: https://jwt.io/
 * Use the generated JWT token Authorize and consume all the endpoints
 
 
 ![img.png](img.png)
-### Actuator endpoints
+## Actuator endpoints
 
 | HTTP Method | Endpoint |                      Action |
 | :---         |     :---:      |----------------------------:|
