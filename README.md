@@ -44,7 +44,7 @@ get user information. Users will register themselves prior to login before creat
   - Use Swagger as alternative on http://localhost:8082/docs
 
 ## API endpoints
-* First things first access using Swagger `/docs` endpoint
+* First things first access `/docs` Swagger endpoint
 * Register user profile using the Authentication REAST API endpoints `/api/auth/register`
 * Login `/api/auth/login` to get JWT token generated
 * Validate JWT Token using: https://jwt.io/
